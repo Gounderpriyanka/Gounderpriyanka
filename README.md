@@ -34,4 +34,4 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Gounderpriyanka" alt="Gounderpriyanka" />
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gounderpriyanka&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gounderpriyanka&theme=transparent&hide_border=true" alt="GitHub Streak" /></a> -->
