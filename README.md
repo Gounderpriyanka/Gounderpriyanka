@@ -1,104 +1,170 @@
-<h1 align="center">Hi 👋, I'm Priyanka</h1>
-<h3 align="center">BCA Student | AI/ML Enthusiast </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gounderpriyanka&label=Profile%20views&color=0e75b6&style=flat" alt="gounderpriyanka" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Priyanka!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BCA%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18)
 
-<p align="left">
-  <a href="https://github-trophies.vercel.app/?username=Gounderpriyanka&theme=onedark">
-    <img src="https://github-trophies.vercel.app/?username=Gounderpriyanka&theme=onedark" alt="Gounderpriyanka trophies"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+🤖;Edge+AI+%7C+LLMs+%7C+RAG+Pipelines;From+idea+to+deployment+🚀;Always+learning%2C+always+building+✨)](https://git.io/typing-svg)
 
----
+<br/>
 
-### 🚀 What I'm Up To
+[![Profile Views](https://komarev.com/ghpvc/?username=gounderpriyanka&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/gounderpriyanka)
+[![GitHub followers](https://img.shields.io/github/followers/gounderpriyanka?style=for-the-badge&color=blueviolet&label=FOLLOWERS)](https://github.com/gounderpriyanka)
 
-- 🔭 Currently working on **[AI Document Analyzer](https://ai-document-analyzer-ytjg2zbfctit7psjdnngef.streamlit.app/)** — PDF analysis with summarization & Q&A
-- 🤖 Exploring **LangChain, RAG pipelines, and LLMs**
-- 👨‍💻 All my projects: [gounderpriyanka.github.io/portfolio](https://gounderpriyanka.github.io/portfolio/#google-clouds)
-- 📝 I write on [Medium](https://medium.com/@gounderpriyanka4)
-- 📫 Reach me at **gounderpriyanka4@gmail.com**
+</div>
 
 ---
 
-### 🏆 Featured Projects
+## 🌟 About Me
 
-#### 🔬 Edge AI Based Sensor Defect Detection System
-**ESP32-CAM + Edge Impulse** &nbsp;|&nbsp; *Avishkar — Silver Oak University*
-- Captured real-world sensor images using ESP32-CAM, organised into labelled datasets and uploaded to Edge Impulse for model training
-- Trained an image classification model achieving **99.6% detection confidence** for DHT11, Ultrasonic, IR Sensor and Battery Cell across Normal, Damaged and Cracked conditions
-- Exported trained model as an Arduino library and deployed directly onto ESP32-CAM — detects defects **completely offline with zero cloud dependency**
-- Built a live WiFi web dashboard displaying sensor type, defect condition badge, confidence % and recommended corrective action — auto-refreshes every 2 seconds
-- Applicable in electronics manufacturing, automotive, medical devices, battery production and PCB assembly QC
-
----
-
-#### 🤚 Gesture Based Device Control
-**Python + OpenCV + MediaPipe** &nbsp;|&nbsp; *Edunet Foundation — Silver Oak University*
-- Built a real-time hand gesture recognition system to control LED and Fan ON/OFF without physical touch using a webcam
-- Used OpenCV and MediaPipe for live hand landmark detection and gesture tracking
-- Demonstrated practical contactless home automation — demo published on LinkedIn
+```python
+class Priyanka:
+    name       = "Priyanka Gounder"
+    degree     = "BCA — Silver Oak University"
+    interests  = ["AI/ML", "Edge AI", "LLMs & RAG", "Full-Stack Dev"]
+    tools      = ["Python", "TensorFlow", "LangChain", "Streamlit", "OpenCV"]
+    currently  = "Exploring LangChain · RAG Pipelines · LLM Integration"
+    fun_fact   = "I built a defect detector that runs 100% offline on a chip 🔬"
+```
 
 ---
 
-#### 🧠 AI Document Analyzer
-**Python + Streamlit** &nbsp;|&nbsp; *Personal Project* &nbsp;|&nbsp; [Live App](https://ai-document-analyzer-ytjg2zbfctit7psjdnngef.streamlit.app/)
-- Developed a Python application to analyse PDF documents using AI APIs with summarization and Q&A features
-- Built a clean Streamlit UI focusing on API integration and backend logic
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🏆 Edge AI Based Sensor Defect Detection System
+![Badge](https://img.shields.io/badge/ESP32--CAM-Edge%20Impulse-orange?style=for-the-badge&logo=arduino)
+![Badge](https://img.shields.io/badge/Accuracy-99.6%25-brightgreen?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Avishkar-Silver%20Oak%20University-blue?style=for-the-badge)
+
+</div>
+
+> 🔬 Real-time sensor defect detection — **completely offline, zero cloud dependency**
+
+| Feature | Detail |
+|---|---|
+| 📷 Hardware | ESP32-CAM — captures live sensor images |
+| 🧠 Model | Edge Impulse image classification — 99.6% confidence |
+| 🎯 Detects | DHT11, Ultrasonic, IR Sensor, Battery Cell — Normal / Damaged / Cracked |
+| 🌐 Dashboard | Live WiFi web UI — auto-refreshes every 2 seconds |
+| 🏭 Use Cases | Electronics manufacturing · Automotive · Medical devices · PCB QC |
 
 ---
 
-#### 🌐 Personal Portfolio Website
-**HTML + CSS + JavaScript** &nbsp;|&nbsp; *Personal Project* &nbsp;|&nbsp; [View Portfolio](https://gounderpriyanka.github.io/portfolio/#google-clouds)
-- Designed a fully responsive portfolio with light/dark mode toggle, smooth animations and project showcase
+<div align="center">
+
+### ✋ Gesture Based Device Control
+![Badge](https://img.shields.io/badge/Python-OpenCV-blue?style=for-the-badge&logo=python)
+![Badge](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-red?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Edunet-Silver%20Oak%20University-purple?style=for-the-badge)
+
+</div>
+
+> 🤚 Control LED & Fan **without physical touch** — contactless home automation
+
+- Real-time hand landmark detection using **OpenCV + MediaPipe**
+- Gesture recognition mapped to ON/OFF device commands via webcam
+- Demo video published on LinkedIn 🎥
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p align="left">
-<a href="https://kaggle.com/gounder priyanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gounder priyanka" height="30" width="40" /></a>
-<a href="https://instagram.com/infinity.lo0p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinity.lo0p" height="30" width="40" /></a>
-<a href="https://medium.com/@gounderpriyanka4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gounderpriyanka4" height="30" width="40" /></a>
-</p>
+### 🧠 AI Document Analyzer
+![Badge](https://img.shields.io/badge/Python-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)
+![Badge](https://img.shields.io/badge/AI%20APIs-PDF%20Q%26A-yellow?style=for-the-badge)
+[![Live](https://img.shields.io/badge/LIVE%20APP-Click%20Here-success?style=for-the-badge&logo=vercel)](https://ai-document-analyzer-ytjg2zbfctit7psjdnngef.streamlit.app/)
 
----
+</div>
 
-### 🛠️ Languages & Tools
+> 🗂️ Upload any PDF → Get summaries & ask questions instantly
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <!-- LangChain / RAG / LLMs -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/></a>
-</p>
-
-> 🔗 **LangChain · RAG Pipelines · LLM Integration**
+- Clean Streamlit UI with AI-powered summarization & Q&A
+- Focused on API integration and backend logic
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gounderpriyanka&show_icons=true&locale=en&layout=compact" alt="gounderpriyanka" /></p>
+### 🌐 Personal Portfolio Website
+![Badge](https://img.shields.io/badge/HTML-CSS-orange?style=for-the-badge&logo=html5)
+![Badge](https://img.shields.io/badge/JavaScript-Animations-yellow?style=for-the-badge&logo=javascript)
+[![Visit](https://img.shields.io/badge/VIEW%20PORTFOLIO-Click%20Here-9cf?style=for-the-badge)](https://gounderpriyanka.github.io/portfolio/#google-clouds)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gounderpriyanka&show_icons=true&locale=en" alt="gounderpriyanka" /></p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gounderpriyanka" alt="Gounderpriyanka" />
-</p>
+> 💼 Fully responsive with **light/dark mode**, smooth animations & project showcase
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### 🌐 Web & Full-Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gounderpriyanka&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gounderpriyanka&layout=compact&theme=radical&border_radius=10&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Gounderpriyanka&theme=radical&hide_border=true&border_radius=10" />
+
+<br/>
+
+<img src="https://github-trophies.vercel.app/?username=Gounderpriyanka&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gounderpriyanka4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/infinity.lo0p)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gounder-priyanka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gounderpriyanka4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gounderpriyanka.github.io/portfolio/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
