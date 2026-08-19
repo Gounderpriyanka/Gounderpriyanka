@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Priyanka!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BCA%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Master's%20in%20Data%20Science&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Priyanka!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Master's%20in%20Data%20Science&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+🤖;Edge+AI+%7C+LLMs+%7C+RAG+Pipelines;Now+diving+into+Data+Science+%F0%9F%93%8A;Always+learning%2C+always+building+✨)](https://git.io/typing-svg)
 
