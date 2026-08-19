@@ -18,7 +18,6 @@
 ```python
 class Priyanka:
     name       = "Priyanka Gounder"
-    degree     = "BCA — Silver Oak University"
     pursuing   = "Master's in Data Science"
     interests  = ["AI/ML", "Edge AI", "LLMs & RAG", "Data Science"]
     tools      = ["Python", "TensorFlow", "LangChain", "Streamlit", "OpenCV"]
@@ -35,13 +34,6 @@ class Priyanka:
 [![Repo](https://img.shields.io/badge/Data--Science-Coursework%20%26%20Tasks-blueviolet?style=for-the-badge&logo=github)](https://github.com/Gounderpriyanka/Data-Science)
 
 </div>
-
-> 📊 Currently pursuing my **Master's in Data Science** — all coursework, assignments, and hands-on tasks are uploaded and tracked in this repository as I progress.
-
-- 🗂️ Weekly tasks & assignments
-- 📈 Data analysis and visualization practice
-- 🧮 Statistics, ML foundations, and applied projects
-- 🔗 **Repo:** [Gounderpriyanka/Data-Science](https://github.com/Gounderpriyanka/Data-Science)
 
 ---
 
