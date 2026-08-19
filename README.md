@@ -24,17 +24,6 @@ class Priyanka:
     currently  = "Exploring LangChain · RAG Pipelines · LLM Integration · Data Science Fundamentals"
     fun_fact   = "I built a defect detector that runs 100% offline on a chip 🔬"
 ```
-
----
-
-## 🎓 Master's in Data Science
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Data--Science-Coursework%20%26%20Tasks-blueviolet?style=for-the-badge&logo=github)](https://github.com/Gounderpriyanka/Data-Science)
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
